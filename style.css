@@ -1,0 +1,32 @@
+.c1_container{
+    text-align: center;
+               }
+.flex_item{
+    display: flex;
+
+}
+
+.p_container{
+    text-align: left;
+    margin: 5px;
+    border: 10px;
+    
+
+}
+
+
+.flex-row{
+
+
+    background-color: black;
+}
+
+.a1{
+    background-color: whitesmoke;
+}
+
+.b1{
+    background-color: white;
+    padding: 20px;
+    margin: 5px;
+}
